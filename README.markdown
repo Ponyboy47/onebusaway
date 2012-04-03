@@ -11,7 +11,7 @@ Unofficial Ruby library for interacting with the [OneBusAway API](http://code.go
 Basic usage:
 
     require 'rubygems'
-    require 'onebusaway'
+    require 'onebusaway_updated'
 
     Onebusaway.api_key = 'YOUR_API_KEY'
 

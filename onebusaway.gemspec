@@ -4,12 +4,12 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{onebusaway}
+  s.name = %q{onebusaway_updated}
   s.version = "0.2.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Jeff Ching"]
-  s.date = %q{2010-11-17}
+  s.date = %q{2011-11-17}
   s.description = %q{Unofficial Ruby library for interacting with the OneBusAway API. See http://code.google.com/p/onebusaway/wiki/OneBusAwayRestApi}
   s.email = %q{ching.jeff@gmail.com}
   s.extra_rdoc_files = [
@@ -28,7 +28,7 @@ Gem::Specification.new do |s|
     "test/sample_data.rb",
     "test/unit/test_onebusaway.rb"
   ]
-  s.homepage = %q{http://github.com/chingor13/onebusaway}
+  s.homepage = %q{http://github.com/Ponyboy47/onebusaway}
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.7}
